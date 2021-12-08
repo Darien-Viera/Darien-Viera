@@ -4,9 +4,9 @@ Experienced mainly in the Salesforce CRM platform and its technologies, includin
 
 Currently working at SwagUp as a SalesForce Developer. You can check my Trailhead profile at [Trailblazer.me](https://trailblazer.me/id/dvierabarredo).
 
-[![Darien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darien-Viera&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Darien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darien-Viera&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darien-Viera&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darien-Viera&show_icons=true&count_private=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darien-Viera&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
