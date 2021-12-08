@@ -6,9 +6,9 @@ Currently working at SwagUp as a SalesForce Developer. You can check my Trailhea
 
 [![Darien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darien-Viera&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darien-Viera&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darien-Viera&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darien-Viera&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darien-Viera&theme=omni&show_icons=true&count_private=true&hide_border=true" />
 </a>
