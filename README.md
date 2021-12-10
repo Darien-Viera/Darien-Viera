@@ -2,7 +2,7 @@ Graduated from the University of Havana in the Computer Science major. Skilled i
 
 Experienced mainly in the Salesforce CRM platform and its technologies, including Apex, Javascript, Aura Components and Lightning Components. Usual tasks carried out inside this platform focus on, but are not limited to, developing new features, managing external microservices and working with APIs. Accustomed to work while enforcing good programming practices in a multitenant environment with shared resources and strict execution limits; and keeping a good work environment, focused on personal growth and career building.
 
-Currently working at SwagUp as a SalesForce Developer. You can check my Trailhead profile at [Trailblazer.me](https://trailblazer.me/id/dvierabarredo) or my LinkedIn profile at [www.linkedin.com](https://www.linkedin.com/in/darien-viera-barredo-416320bb/).
+Currently working at SwagUp as a SalesForce Developer. You can check my Trailhead profile at [Trailblazer.me](https://trailblazer.me/id/dvierabarredo) or my LinkedIn profile at [Linkedin.com](https://www.linkedin.com/in/darien-viera-barredo-416320bb/).
 
 [![Darien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darien-Viera&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darien-Viera&theme=tokyonight)](https://git.io/streak-stats)
